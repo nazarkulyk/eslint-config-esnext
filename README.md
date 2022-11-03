@@ -4,9 +4,6 @@
 
 [![npm version][version-img]][npm-url]
 [![npm downloads][downloads-img]][npm-url]
-[![GitHub issues][issues-img]][issues-url]
-[![Deps][deps-img]][deps-url]
-[![Dev Deps][devdeps-img]][deps-url]
 
 #### Usage
 
